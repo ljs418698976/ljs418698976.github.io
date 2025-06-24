@@ -8,6 +8,7 @@ Hi, I'm lijiashun, an enthusiastic developer and entrepreneur with a passion for
 - **GameHub**: A great place to relax and have fun with various mini-games. [Visit Site](http://www.gamehub.men)
 - **Free MBTI Test**: A free personality test to understand yourself better. [Visit Site](http://www.freembtitest.top)
 - **Sleep Soundscapes**: Personalized Sleep Soundscapes. [Visit Site](http://www.sleepsoundscape.xyz)
+- **Bible Read Plan**: Personalized Bible Read Plan. [Visit Site](http://www.biblereadplan.top)
 
 ## My Web:
 
@@ -17,6 +18,7 @@ Hi, I'm lijiashun, an enthusiastic developer and entrepreneur with a passion for
 - http://www.gamehub.men
 - http://www.freembtitest.top
 - http://www.sleepsoundscape.xyz
+- http://www.biblereadplan.top
 
 
 
