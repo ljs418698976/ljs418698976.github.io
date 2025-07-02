@@ -10,6 +10,8 @@ Hi, I'm lijiashun, an enthusiastic developer and entrepreneur with a passion for
 - **Sleep Soundscapes**: Personalized Sleep Soundscapes. [Visit Site](http://www.sleepsoundscape.xyz)
 - **Bible Read Plan**: Personalized Bible Read Plan. [Visit Site](http://www.biblereadplan.top)
 - **Text To Image Card**: Personalized Text To Image Card. [Visit Site](http://www.texttoimagecard.top)
+- **Novel Short Story**: Personalized Novel Short Story. [Visit Site](http://www.novelshortstory.online)
+- **Open All Web**: Personalized Open All Web. [Visit Site](http://www.openallweb.top)
 
 ## My Web:
 
@@ -21,6 +23,8 @@ Hi, I'm lijiashun, an enthusiastic developer and entrepreneur with a passion for
 - http://www.sleepsoundscape.xyz
 - http://www.biblereadplan.top
 - http://www.texttoimagecard.top
+- http://www.novelshortstory.online
+- http://www.openallweb.top
 
 
 
