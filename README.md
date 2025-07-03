@@ -2,18 +2,6 @@ Hi, I'm lijiashun, an enthusiastic developer and entrepreneur with a passion for
 
 **My Projects:**
 
-- **ChinaTravel**: Explore the beautiful landscapes and culture of China. [Visit Site](http://www.chinatravel.lat)
-- **Markdown Tools**: A powerful resource hub for Markdown enthusiasts. [Visit Site](http://www.markdown.men)
-- **PromptHub**: A rich source of prompts to inspire creativity and ideas. [Visit Site](http://www.prompthub.men)
-- **GameHub**: A great place to relax and have fun with various mini-games. [Visit Site](http://www.gamehub.men)
-- **Free MBTI Test**: A free personality test to understand yourself better. [Visit Site](http://www.freembtitest.top)
-- **Sleep Soundscapes**: Personalized Sleep Soundscapes. [Visit Site](http://www.sleepsoundscape.xyz)
-- **Bible Read Plan**: Personalized Bible Read Plan. [Visit Site](http://www.biblereadplan.top)
-- **Text To Image Card**: Personalized Text To Image Card. [Visit Site](http://www.texttoimagecard.top)
-- **Novel Short Story**: Personalized Novel Short Story. [Visit Site](http://www.novelshortstory.online)
-- **Open All Web**: Personalized Open All Web. [Visit Site](http://www.openallweb.top)
-- 以下是所有链接已更新为 HTTPS 的列表：
-
 1. [China Travel | 中国旅游服务平台](https://www.chinatravel.lat)
 2. [Markdown Converter - Convert Markdown to Excel, HTML, and Word Instantly](https://www.markdown.men)
 3. [PromptHub - 发现、分享和管理你的AI提示词](https://www.prompthub.men)
